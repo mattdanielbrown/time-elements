@@ -32,7 +32,7 @@
   "prettier": "@github/prettier-config",
   "repository": "github/relative-time-element",
   "devDependencies": {
-    "@custom-elements-manifest/analyzer": "^0.8.0",
+    "@custom-elements-manifest/analyzer": "^0.10.5",
     "@github/prettier-config": "^0.0.6",
     "@js-temporal/polyfill": "^0.4.3",
     "@open-wc/testing": "^3.2.2",
